@@ -8,5 +8,7 @@
    - Para ejecturarlo
      
         n8n
+     
          or
+     
         n8n start
